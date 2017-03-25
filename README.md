@@ -2,7 +2,7 @@
 
 The program shows vk online friends. 
 
-#How to use
+# How to use
 
 1. virtualenv -p python3 env
 2. pip install -r requirements.txt
