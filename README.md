@@ -1,6 +1,12 @@
 # Watcher of Friends Online
 
-[TODO. There will be project description]
+The program shows vk online friends. 
+
+#How to use
+
+1. virtualenv -p python3 env
+2. pip install -r requirements.txt
+3. python vk_friends_online.py
 
 # Project Goals
 
